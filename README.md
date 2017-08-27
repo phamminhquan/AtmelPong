@@ -8,7 +8,7 @@
 | Accessories | LED & Switches Backpack |
 | Peripherals | Timer/Counter, External Interrupts |
 
-Setup:\n
+Setup:
 PORTC[7:0] = LEDs (low-true)
 PORTF[2:3] = Tactile Switches (low-true)
   
