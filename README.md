@@ -8,13 +8,13 @@
 | Accessories | LED & Switches Backpack |
 | Peripherals | Timer/Counter, External Interrupts |
 
-Setup:
+# Setup:
 
   PORTC[7:0] = LEDs (low-true)
 
   PORTF[2:3] = Tactile Switches (low-true)
   
-Instruction:
+# Instruction:
 
   Upon reset, LEDs sequentially light up from Pin 0 to Pin 7. 
 
